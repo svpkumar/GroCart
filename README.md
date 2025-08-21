@@ -22,12 +22,6 @@ It allows users to browse, add, update, and delete grocery items with **real-tim
 
 ---
 
-## 📸 Screenshots
-_Add screenshots or GIFs of your application here_  
-*(Optional but highly recommended to make your repo stand out.)*
-
----
-
 ## 🔗 Live Demo
 [Click Here to View the Project](https://gro-cart.vercel.app/)
 
